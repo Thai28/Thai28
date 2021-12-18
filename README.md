@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thai28
 - 👀 I’m interested in Roblox Studio, Unity, Unreal Engine
-- 🌱 I’m currently learning Lua, Python
+- 🌱 I’m currently learning Lua, Python, C#
 - 💞️ I’m looking to collaborate on [NONE]
 - 📫 How to reach me [NONE]
 
